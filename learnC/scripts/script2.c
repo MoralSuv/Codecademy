@@ -7,9 +7,9 @@ int main() {
   double variableDouble;
 
   // Feel free to play around with what you have learned about variables here. You can also create new ones if you like, but right now only the ones created for you are set to be displayed.
-
-
-
+    variableInt = 65;
+    variableChar = (char)variableInt; // explicit conversion of a varible
+    variableDouble = 8.888;
 
   // Output logic
   printf("display an int here: %d\n", variableInt);
